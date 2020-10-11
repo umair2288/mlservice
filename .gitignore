@@ -1,0 +1,8 @@
+/env
+/__pycache__
+/app/__pycache__
+/env2
+/env3
+*/__pycache__
+/app/model/mask_rcnn_leave_0015.h5
+ddd
